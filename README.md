@@ -4,7 +4,7 @@ A Complex é uma aplicação feita com laravel para uma empresa construtora. Bas
 
 Está incluído nesse projecto, templates como:
 - Flat Admin: da qual não me lembro bem qual a empresa responsável.
-- Complex Template: pertencente a colorlib (<a href="https://colorlib.com/">Colorlib</a>)
+- Complex Template: pertencente a colorlib (<a href="https://colorlib.com/" target="_blink">Colorlib</a>)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
