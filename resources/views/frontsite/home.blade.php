@@ -223,4 +223,7 @@
         </div>
 
     </div>
+
+    <x-services />
+
 @endsection
