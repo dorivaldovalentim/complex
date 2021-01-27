@@ -227,4 +227,96 @@
     <x-services />
 
     <x-counter-section />
+
+    
+    <div id="colorlib-project">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+                    <h2>Our Projects</h2>
+                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+                </div>
+            </div>
+
+            <div class="row">
+            
+                <div class="col-md-4 animate-box">
+                    <div class="project-entry">
+                        <a href="{{ route('projects') }}" class="project-img text-center" style="background-image: url(images/building-1.jpg);">
+                            <span class="icon"><i class="icon-search2"></i></span>
+                        </a>
+
+                        <div class="desc">
+                            <h3><a href="{{ route('projects') }}">Apartment Interior Design</a></h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 animate-box">
+                    <div class="project-entry">
+                        <a href="{{ route('projects') }}" class="project-img text-center" style="background-image: url(images/building-2.jpg);">
+                            <span class="icon"><i class="icon-search2"></i></span>
+                        </a>
+
+                        <div class="desc">
+                            <h3><a href="{{ route('projects') }}">Office Space</a></h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 animate-box">
+                    <div class="project-entry">
+                        <a href="{{ route('projects') }}" class="project-img text-center" style="background-image: url(images/building-3.jpg);">
+                            <span class="icon"><i class="icon-search2"></i></span>
+                        </a>
+
+                        <div class="desc">
+                            <h3><a href="{{ route('projects') }}">Condo Building</a></h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 animate-box">
+                    <div class="project-entry">
+                        <a href="{{ route('projects') }}" class="project-img text-center" style="background-image: url(images/building-4.jpg);">
+                            <span class="icon"><i class="icon-search2"></i></span>
+                        </a>
+
+                        <div class="desc">
+                            <h3><a href="{{ route('projects') }}">Kitchen Interior</a></h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 animate-box">
+                    <div class="project-entry">
+                        <a href="{{ route('projects') }}" class="project-img text-center" style="background-image: url(images/building-5.jpg);">
+                            <span class="icon"><i class="icon-search2"></i></span>
+                        </a>
+
+                        <div class="desc">
+                            <h3><a href="{{ route('projects') }}">Commercial Building</a></h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 animate-box">
+                    <div class="project-entry">
+                        <a href="{{ route('projects') }}" class="project-img text-center" style="background-image: url(images/building-6.jpg);">
+                            <span class="icon"><i class="icon-search2"></i></span>
+                        </a>
+
+                        <div class="desc">
+                            <h3><a href="{{ route('projects') }}">Hotel Building</a></h3>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
 @endsection
