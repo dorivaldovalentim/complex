@@ -30,9 +30,22 @@
     <body class="flat-blue">
 
         <div class="app-container">
-            <x-top-menu />
 
-            @yield('content')
+            <div class="row content-container">
+                <x-top-menu />
+                <x-side-menu />
+
+                <!-- Main Content -->
+                <div class="container-fluid">
+
+                    <div class="side-body padding-top">
+
+                        @yield('content')
+
+                    </div>
+                </div>
+
+            </div>
 
             <footer class="app-footer">
                 <div class="wrapper">
