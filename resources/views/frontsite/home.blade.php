@@ -319,4 +319,119 @@
 
     </div>
 
+    {{-- About/Team Section --}}
+    <div class="about-wrap">
+        <div id="colorlib-about" class="colorlib-about-img" style="background-image: url(images/cover_img_2.jpg);" data-stellar-background-ratio="0.5">
+            
+            <div class="overlay"></div>
+            
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 text-center colorlib-heading colorlib-heading2 animate-box">
+                        <h2>Our Team</h2>
+                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+                    </div>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-md-12 animate-box">
+
+                        <div class="about-flex">
+
+                            <div class="col-half">
+                                <a href="#" class="staff-img" style="background-image: url(images/person1.jpg);">
+                                    <div class="desc-staff">
+                                        <h3>Ian Moore</h3>
+                                        <span>Electrician</span>
+                                    </div>
+                                </a>
+
+                                <a href="#" class="staff-img" style="background-image: url(images/person2.jpg);">
+                                    <div class="desc-staff">
+                                        <h3>Jack Clark</h3>
+                                        <span>Engineer</span>
+                                    </div>
+                                </a>
+
+                                <a href="#" class="staff-img" style="background-image: url(images/person3.jpg);">
+                                    <div class="desc-staff">
+                                        <h3>Kiven Lewis</h3>
+                                        <span>Architect</span>
+                                    </div>
+                                </a>
+
+                                <a href="#" class="staff-img" style="background-image: url(images/person4.jpg);">
+                                    <div class="desc-staff">
+                                        <h3>Charles Scott</h3>
+                                        <span>Assistant Engineer</span>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-half">
+                                <div class="desc">
+                                    <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.</p>
+                                    
+                                    <div class="fancy-collapse-panel">
+                                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="headingOne">
+                                                    <h4 class="panel-title">
+                                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                            Who we are
+                                                        </a>
+                                                    </h4>
+                                                </div>
+
+                                                <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                                                    <div class="panel-body">
+                                                        <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="headingTwo">
+                                                    <h4 class="panel-title">
+                                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                            What we do
+                                                        </a>
+                                                    </h4>
+                                                </div>
+
+                                                <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                                                    <div class="panel-body">
+                                                        <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="headingThree">
+                                                    <h4 class="panel-title">
+                                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                            Why Choose us?
+                                                        </a>
+                                                    </h4>
+                                                </div>
+                                                
+                                                <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                                    <div class="panel-body">
+                                                        <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>	
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 @endsection
