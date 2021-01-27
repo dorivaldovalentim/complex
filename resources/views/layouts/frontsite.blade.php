@@ -92,6 +92,136 @@
 
             {{-- End Newsletter Section --}}
 
+
+            {{-- Footer Section --}}
+
+            <footer id="colorlib-footer">
+
+                <div class="contact-information">
+
+                    <div class="container">
+
+                        <div class="row">
+
+                            <div class="col-md-8 col-md-offset-2">
+
+                                <div class="row">
+
+                                    <div class="col-md-4 text-center">
+                                        <div class="info-wrap">
+                                            <span class="icon"><i class="icon-location4"></i></span>
+                                            <p>291 South 21th Street, <br> Suite 721 New York NY 10016</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4 text-center">
+                                        <div class="info-wrap">
+                                            <span class="icon"><i class="icon-world"></i></span>
+                                            <p><a href="#">info@example.com</a> <br> <a href="#">www.example.com</a></p>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4 text-center">
+                                        <div class="info-wrap">
+                                            <span class="icon"><i class="icon-phone2"></i></span>
+                                            <p><a href="#">(001) 2345 6789</a> <br> <a href="#">(001) 9876 5432</a></p>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="container">
+
+                    <div class="row row-pb-md">
+
+                        <div class="col-md-3 colorlib-widget">
+                            <h4>About Complex</h4>
+
+                            <p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+
+                            <p>
+                                <ul class="colorlib-social-icons">
+                                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                                    <li><a href="#"><i class="icon-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                                </ul>
+                            </p>
+                        </div>
+
+                        <div class="col-md-3 col-md-push-1 colorlib-widget">
+                            <h4>Information</h4>
+
+                            <p>
+                                <ul class="colorlib-footer-links">
+                                    <li><a href="#"><i class="icon-check"></i> Our Company</a></li>
+                                    <li><a href="#"><i class="icon-check"></i> Certification</a></li>
+                                    <li><a href="#"><i class="icon-check"></i> Our services</a></li>
+                                    <li><a href="#"><i class="icon-check"></i> Career</a></li>
+                                    <li><a href="#"><i class="icon-check"></i> Core Values</a></li>
+                                    <li><a href="#"><i class="icon-check"></i> Company History</a></li>
+                                    <li><a href="#"><i class="icon-check"></i> FAQ</a></li>
+                                </ul>
+                            </p>
+                        </div>
+    
+                        <div class="col-md-3 colorlib-widget">
+                            <h4>Instagram</h4>
+
+                            <div class="instagram">
+                                <a href="#" class="insta-img" style="background-image: url(images/building-1.jpg);"></a>
+                                <a href="#" class="insta-img" style="background-image: url(images/building-2.jpg);"></a>
+                                <a href="#" class="insta-img" style="background-image: url(images/building-3.jpg);"></a>
+                                <a href="#" class="insta-img" style="background-image: url(images/building-4.jpg);"></a>
+                                <a href="#" class="insta-img" style="background-image: url(images/building-5.jpg);"></a>
+                                <a href="#" class="insta-img" style="background-image: url(images/building-6.jpg);"></a>
+                            </div>
+                        </div>
+    
+                        <div class="col-md-3 col-md-push-1 colorlib-widget">
+                            <h4>Contact Info</h4>
+
+                            <ul class="colorlib-footer-links">
+                                <li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
+                                <li><a href="tel://1234567920"><i class="icon-phone"></i> + 1235 2355 98</a></li>
+                                <li><a href="mailto:info@yoursite.com"><i class="icon-envelope"></i> info@yoursite.com</a></li>
+                                <li><a href="http://luxehotel.com"><i class="icon-location4"></i> yourwebsite.com</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="copy">
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <p>
+                                    <small class="block">
+                                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                    </small>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </footer>
+
+            {{-- End Footer Section --}}
+
         </div>
 
         <div class="gototop js-top">
