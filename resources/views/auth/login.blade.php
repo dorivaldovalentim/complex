@@ -103,15 +103,19 @@
 
                             </div>
 
-                            @if (Route::has('password.request'))
-                                <div class="login-footer">
-                                    <span class="text-right">
+                            <div class="login-footer">
+                                <span class="text-right">
+                                    <a class="btn btn-link" href="{{ route('register') }}">
+                                        {{ __('Register') }}
+                                    </a>
+                                    @if (Route::has('password.request'))
+                                        <span class="text-white">||</span>
                                         <a class="btn btn-link" href="{{ route('password.request') }}">
                                             {{ __('Forgot Your Password?') }}
                                         </a>
-                                    </span>
-                                </div>
-                            @endif
+                                    @endif
+                                </span>
+                            </div>
 
                         </div>
 
