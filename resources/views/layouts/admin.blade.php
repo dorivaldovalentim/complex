@@ -30,6 +30,7 @@
     <body class="flat-blue">
 
         <div class="app-container">
+            <x-top-menu />
 
             @yield('content')
 
