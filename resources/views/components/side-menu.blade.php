@@ -5,7 +5,7 @@
         <div class="side-menu-container">
 
             <div class="navbar-header">
-                <a href="{{ route('home') }}" class="navbar-brand">
+                <a href="{{ route('admin.home') }}" class="navbar-brand">
                     <div class="icon fa fa-paper-plane"></div>
                     <div class="title">Complex Admin</div>
                 </a>
@@ -17,7 +17,7 @@
 
             <ul class="nav navbar-nav">
                 <li class="active">
-                    <a href="{{ route('home') }}">
+                    <a href="{{ route('admin.home') }}">
                         <span class="icon fa fa-tachometer"></span>
                         <span class="title">Dashboard</span>
                     </a>
