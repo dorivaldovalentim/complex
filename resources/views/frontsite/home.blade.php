@@ -434,4 +434,83 @@
         </div>
     </div>
 
+
+    {{-- Testimonials --}}
+
+    <div id="colorlib-testimony">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+                    <h2>Client Says:</h2>
+                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-8 col-md-offset-2 text-center">
+
+                    <div class="row animate-box">
+
+                        <div class="owl-carousel1">
+
+                            <div class="item">
+                                <div class="testimony-slide">
+                                    <div class="testimony-wrap">
+                                        <figure>
+                                            <img src="images/person1.jpg" alt="user">
+                                        </figure>
+
+                                        <blockquote>
+                                            <span>Andrew Field</span>
+                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                        </blockquote>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="testimony-slide">
+                                    <div class="testimony-wrap">
+                                        <figure>
+                                            <img src="images/person2.jpg" alt="user">
+                                        </figure>
+
+                                        <blockquote>
+                                            <span>Mark Bubble</span>
+                                            <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                        </blockquote>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="testimony-slide">
+                                    <div class="testimony-wrap">
+                                        <figure>
+                                            <img src="images/person3.jpg" alt="user">
+                                        </figure>
+
+                                        <blockquote>
+                                            <span>Adam Smith</span>
+                                            <p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                                        </blockquote>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+        
+    </div>
+
 @endsection
