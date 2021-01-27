@@ -226,4 +226,5 @@
 
     <x-services />
 
+    <x-counter-section />
 @endsection
