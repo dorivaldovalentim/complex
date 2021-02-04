@@ -15,4 +15,29 @@ class HomeController extends Controller
     {
         return view('frontsite.home');
     }
+
+    public function projects()
+    {
+        return view('frontsite.projects');
+    }
+
+    public function services()
+    {
+        return view('frontsite.services');
+    }
+
+    public function blog()
+    {
+        return view('frontsite.blog');
+    }
+
+    public function about()
+    {
+        return view('frontsite.about');
+    }
+
+    public function contacts()
+    {
+        return view('frontsite.contacts');
+    }
 }
